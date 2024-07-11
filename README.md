@@ -1,6 +1,6 @@
 👋 *Hello! I'm Shakeel Rifath*
 
-🔍 *Data Enthusiast:* Leveraging Power BI, Python, SQL, and Advanced Excel to transform complex datasets into actionable insights.
+🔍 *Data Enthusiast:* Leveraging Power BI, Python, Machine Learning,  SQL, and Advanced Excel to transform complex datasets into actionable insights.
 
 🚀 *Innovative Projects:* 
 - Developed a Power BI sales dashboard, boosting cross-selling opportunities by 15%.
