@@ -44,7 +44,7 @@ Certified in Business Analysis, Data Science, and ML
 
 🎓 **Education:**  
 B.Tech in Computer Science & Engineering  
-CGPA: 8.57 — Hindustan Institute of Technology and Science
+CGPA: 9.1 — Hindustan Institute of Technology and Science
 
 ---
 
