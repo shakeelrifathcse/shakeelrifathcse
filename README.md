@@ -17,10 +17,9 @@ Junior Big Data Engineer at NexTurn — building scalable data pipelines using H
 ---
 
 📊 **Recent Highlights:**
-- Developed a Power BI sales dashboard that increased cross-selling opportunities by 15%  
-- Enhanced inventory efficiency by 30% in GD Foods via a self-directed analytics project  
-- Published ML research at IEEE 2024 on smart recommendation systems  
-- Increased sales 2x during my internship at MIC using data analytics  
+- Developed a Power BI sales dashboard that increased cross-selling opportunities  
+- Enhanced inventory efficiency in GD Foods via a self-directed analytics project  
+- Published ML research at IEEE 2024 on smart recommendation systems    
 
 ---
 
